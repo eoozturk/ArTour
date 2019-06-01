@@ -1,2 +1,2 @@
-# ArTour
-Artırılmış Gerçeklik Tabanlı Mobil Turist Rehberi
+### ArTour: Artırılmış Gerçeklik Tabanlı Mobil Turist Rehberi
+
