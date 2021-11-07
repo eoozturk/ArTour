@@ -7,7 +7,7 @@ Birinci şekilde 1 ile numaralandırılmış her bir butonda turistik mekanlara 
 
 Üçüncü şekil ile gösterilen ekran görüntüsünde ise ArTour’un sağlamış olduğu artırılmış gerçeklik özellikleri gösterilmektedir. Resim üzerinde gösterilen 1 numaralı alan turistik mekanın adını, 3 numaralı alan ise turistik mekanın bilgilerini içeren metin kutusunu göstermektedir. 2 olarak numaralandırılmış buton ise turistik mekanın bilgilerini kullanıcılara sesli olarak aktarmayı sağlamaktadır. 
 
- <p align="center"><img align="left" src="images/img1.png"  width= 260 height= 350> <img align="center" src="images/img2.png"  width= 260 height= 350><img align="right" src="images/img3.png"  width= 250 height= 250></p> 
+ <p align="center"><img align="left" src="images/img1.png"  width= 260 height= 350> <img align="center" src="images/img2.png"  width= 260 height= 350><img align="right" src="images/img3.png"  width= 260 height= 350></p> 
 
 Uygulama üç temel bileşen kullanılarak geliştirilmiştir. Uygulamanın temelini oluşturan bu bileşenler şunlardır: Unity, Vuforia, Google Maps.
 <p align="center"><img src="images/img4.png" width= 250 height= 250></p>
