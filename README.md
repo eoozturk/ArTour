@@ -1,7 +1,9 @@
 ### ArTour: Artırılmış Gerçeklik Tabanlı Mobil Turist Rehberi
 
 Editor: Unity
+
 SDK: Vuforia
+
 Programming Language: C#
 
 ArTour projesinin amacı, Artırılmış Gerçeklik teknolojisine dayanan turistik bilgiler için bir mobil hizmet uygulaması geliştirmektir. ArTour’un özel amaçlarından bir tanesi, belirli bir donanım yerine standart akıllı mobil cihazları kullanmaktır. ArTour, artırılmış gerçeklik ve sesli bilgiler ile zenginleştirilmiş içerikleri turistik yerleri keşfetmek ve daha iyi tanımak isteyen son kullanıcıları hedeflemektedir.
